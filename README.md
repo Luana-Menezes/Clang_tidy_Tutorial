@@ -345,3 +345,6 @@ Clang-Tidy é uma ferramenta essencial para manter qualidade de código em proje
 - [Documentação Oficial](https://clang.llvm.org/extra/clang-tidy/)
 - [Lista de Checks](https://clang.llvm.org/extra/clang-tidy/checks/list.html)
 - [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/)
+
+
+---
